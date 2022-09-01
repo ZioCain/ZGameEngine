@@ -1,0 +1,11 @@
+cat lib/extensions.js >dist.js 
+cat lib/types.js >>dist.js 
+cat lib/inputs.js >>dist.js 
+cat lib/logger.js >>dist.js 
+cat lib/z-game.js >>dist.js 
+cat lib/sprite.js >>dist.js 
+cat lib/component.js >>dist.js 
+cat lib/renderer.js >>dist.js 
+cat lib/collider.js >>dist.js 
+cat lib/transform.js >>dist.js 
+cat lib/rigid-body.js >>dist.js 
