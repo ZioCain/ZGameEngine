@@ -1,0 +1,21 @@
+{
+  "name": "z-game-engine",
+  "version": "0.0.3",
+  "description": "Very simple JS game engine",
+  "main": "index.js",
+  "module": "dist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZioCain/ZGameEngine.git"
+  },
+  "keywords": [ "Js", "Game", "Engine" ],
+  "author": "ZioCain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZioCain/ZGameEngine/issues"
+  },
+  "homepage": "https://github.com/ZioCain/ZGameEngine#readme"
+}
